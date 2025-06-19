@@ -14,4 +14,4 @@ Analyzed key sales drivers on the Wish e-commerce platform from multiple perspec
 ![Screenshot 2025-06-19 000819](https://github.com/user-attachments/assets/b1851a0b-fbbe-4c16-bc8f-6bfc361ad0ff)
 
 ## Merchant Analysis
-![Screenshot 2025-06-19 000850](https://github.com/user-attachments/assets/126387c9-2d2f-4844-a328-c8014e097489)
+![image](https://github.com/user-attachments/assets/ab62e47d-fa5e-438d-9866-80423388a778)
